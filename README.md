@@ -13,22 +13,6 @@ This repository contains the code for building a Netflix-inspired home page usin
 - Dynamic content: Placeholder content is used to mimic Netflix's movie and TV show recommendations.
 - CSS styling: The stylesheets provide a sleek and modern look, resembling the Netflix branding.
 
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. Clone the repository:
-
-```bash
-git clone // paste the 
-```
-
-2. Open the project in your preferred code editor.
-
-3. Launch the `index.html` file in a web browser to view the Netflix home page.
-
-4. Feel free to modify the code and customize the page according to your preferences. You can update the content, change the colors, or add new features.
-
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
